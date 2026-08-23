@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
 ## Objetivo 
-Criei um sistem simples em python para
+Criar um sistem simples em python para
 listar todos os depósitos e saques realizados na conta, e será exibido as movimentações que o usuário estará operando no sitema. 
 
 ## Passos
